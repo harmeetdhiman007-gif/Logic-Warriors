@@ -1,0 +1,395 @@
+{
+  "settings": {
+    "ownerName": "Harmeet Dhiman",
+    "brandName": "Logic Warriors",
+    "ownerPhone": "+91 98765 43210",
+    "whatsappNumber": "919876543210",
+    "ownerEmail": "contact@logicwarriors.dev",
+    "upiId": "harmeet@upi",
+    "ownerPin": "1234",
+    "currencySymbol": "₹",
+    "tagline": "India's Premier Tech Project & Source Code Marketplace"
+  },
+  "products": [
+    {
+      "id": "lw-proj-001",
+      "title": "Full-Stack Multi-Vendor E-Commerce Platform with Admin & Vendor Portals",
+      "category": "Full-Stack Web",
+      "price": 3499,
+      "originalPrice": 6999,
+      "discount": 50,
+      "rating": 4.9,
+      "reviewCount": 142,
+      "badge": "Bestseller",
+      "isLogicAssured": true,
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&auto=format&fit=crop&q=60",
+      "gallery": [
+        "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&auto=format&fit=crop&q=60"
+      ],
+      "techStack": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Tailwind CSS",
+        "Stripe / Razorpay"
+      ],
+      "shortDesc": "Complete Amazon/Flipkart clone with vendor dashboards, customer cart, order tracking, and Razorpay/Stripe payment gateway integration.",
+      "description": "An enterprise-grade, high-performance multi-vendor e-commerce platform built on the MERN stack. Features comprehensive customer store, multi-vendor seller portal, master admin panel, product inventory management, coupon engine, dynamic category filters, customer reviews, and automated invoice PDF generation.",
+      "deliverables": [
+        "Complete clean, commented MERN source code (.zip + GitHub access)",
+        "Database MongoDB collections & seed schema",
+        "Step-by-step Setup video & Installation Guide",
+        "Full Project Report (70+ pages IEEE format DOCX & PDF)",
+        "PowerPoint Presentation (PPT) for college viva / client pitch",
+        "1-on-1 Remote Setup Support via AnyDesk / Google Meet"
+      ],
+      "demoUrl": "https://demo.ecommerce.logicwarriors.dev",
+      "githubPreview": "https://github.com/harmeetdhiman007-gif/Logic-Warriors"
+    },
+    {
+      "id": "lw-proj-002",
+      "title": "AI Deepfake & Facial Manipulation Detection System with Explainable AI",
+      "category": "AI & Machine Learning",
+      "price": 4499,
+      "originalPrice": 8999,
+      "discount": 50,
+      "rating": 4.8,
+      "reviewCount": 98,
+      "badge": "Top Rated",
+      "isLogicAssured": true,
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=60",
+      "gallery": [
+        "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&auto=format&fit=crop&q=60"
+      ],
+      "techStack": [
+        "Python",
+        "PyTorch",
+        "OpenCV",
+        "FastAPI",
+        "React",
+        "Grad-CAM"
+      ],
+      "shortDesc": "Deep learning convolutional model for spotting synthesized media and video face swaps with Grad-CAM heatmaps showing exact manipulated zones.",
+      "description": "Cutting-edge computer vision research project capable of classifying deepfake video clips and images with 96.4% test accuracy. Uses MesoNet and EfficientNet-B4 architectures combined with Grad-CAM heatmaps to visually explain why an image is flagged as fake or genuine.",
+      "deliverables": [
+        "Pre-trained PyTorch weight checkpoints (.pth files)",
+        "FastAPI REST inference backend",
+        "Modern React dashboard with drag-and-drop video scanner",
+        "Comprehensive research synopsis, IEEE paper template & dataset prep scripts",
+        "PPT slides with architectural diagrams & confusion matrix",
+        "Free 1-on-1 setup session"
+      ],
+      "demoUrl": "https://demo.deepfake.logicwarriors.dev",
+      "githubPreview": "https://github.com/harmeetdhiman007-gif/Logic-Warriors"
+    },
+    {
+      "id": "lw-proj-003",
+      "title": "Cross-Platform Food Delivery & Courier Mobile Application with Live Tracking",
+      "category": "Mobile Apps",
+      "price": 3999,
+      "originalPrice": 7999,
+      "discount": 50,
+      "rating": 4.9,
+      "reviewCount": 115,
+      "badge": "Logic Prime",
+      "isLogicAssured": true,
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1526367790999-0150786686a2?w=800&auto=format&fit=crop&q=60",
+      "gallery": [
+        "https://images.unsplash.com/photo-1526367790999-0150786686a2?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800&auto=format&fit=crop&q=60"
+      ],
+      "techStack": [
+        "Flutter",
+        "Dart",
+        "Firebase",
+        "Google Maps API",
+        "Node.js",
+        "WebSockets"
+      ],
+      "shortDesc": "Swiggy / Zomato style multi-role mobile app (Customer, Restaurant Partner, Delivery Rider) with real-time GPS navigation.",
+      "description": "Production-ready mobile application suite built with Flutter for both iOS and Android. Features live courier location tracking using Google Maps polyline routing, push notifications, cart management, real-time order status updates via WebSockets, and restaurant order fulfillment tablets.",
+      "deliverables": [
+        "Flutter Customer App & Delivery Rider App source code",
+        "Node.js & Express live tracking backend",
+        "Firebase authentication & Firestore configuration templates",
+        "App release APK builds ready to run on Android phones",
+        "Full documentation report & architectural block diagrams",
+        "WhatsApp support for running on your device"
+      ],
+      "demoUrl": "https://demo.foodapp.logicwarriors.dev",
+      "githubPreview": "https://github.com/harmeetdhiman007-gif/Logic-Warriors"
+    },
+    {
+      "id": "lw-proj-004",
+      "title": "Smart Home IoT Security Hub with ESP32, Facial Recognition & Cloud Dashboard",
+      "category": "IoT & Hardware",
+      "price": 2999,
+      "originalPrice": 5999,
+      "discount": 50,
+      "rating": 4.7,
+      "reviewCount": 74,
+      "badge": "Hardware+Code",
+      "isLogicAssured": true,
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800&auto=format&fit=crop&q=60",
+      "gallery": [
+        "https://images.unsplash.com/photo-1558002038-1055907df827?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&auto=format&fit=crop&q=60"
+      ],
+      "techStack": [
+        "ESP32-CAM",
+        "Arduino C++",
+        "MQTT",
+        "Python OpenCV",
+        "React",
+        "Firebase"
+      ],
+      "shortDesc": "End-to-end IoT home automation and biometric door lock system with intruder alert photos sent directly to Telegram & mobile app.",
+      "description": "Complete embedded systems project combining ESP32 microcontrollers, relay modules, sensors (DHT11, PIR, MQ2 Gas Sensor), and ESP32-CAM video streaming. Features automatic intruder detection, Telegram bot alerts with captured snapshots, and remote light/fan control from a responsive web dashboard.",
+      "deliverables": [
+        "Arduino C++ sketches with pin mapping diagrams",
+        "Circuit schematics (.png & Fritzing CAD files)",
+        "Components shopping list with Amazon India links",
+        "Python facial recognition script for biometric door lock",
+        "Web dashboard code & Telegram Bot setup guide",
+        "Viva question-and-answer guide for college defense"
+      ],
+      "demoUrl": "https://demo.smarthome.logicwarriors.dev",
+      "githubPreview": "https://github.com/harmeetdhiman007-gif/Logic-Warriors"
+    },
+    {
+      "id": "lw-proj-005",
+      "title": "Automated Algorithmic Crypto & Stock Trading Bot with Risk Management",
+      "category": "Python Automation",
+      "price": 3299,
+      "originalPrice": 6599,
+      "discount": 50,
+      "rating": 4.8,
+      "reviewCount": 89,
+      "badge": "Hot Deal",
+      "isLogicAssured": true,
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&auto=format&fit=crop&q=60",
+      "gallery": [
+        "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1642543492481-44e81e3914a7?w=800&auto=format&fit=crop&q=60"
+      ],
+      "techStack": [
+        "Python",
+        "Pandas",
+        "TA-Lib",
+        "CCXT",
+        "Telegram API",
+        "Streamlit"
+      ],
+      "shortDesc": "Backtested automated trading bot implementing EMA crossovers, MACD, and RSI divergence with stop-loss and real-time trade signals.",
+      "description": "A quantitative trading system with robust historical backtesting engine on Binance / Zerodha data. Executes paper trading or live orders, enforces strict 1:2 risk-reward ratio, monitors volatility, and broadcasts instant trade triggers with chart screenshots to private Telegram channels.",
+      "deliverables": [
+        "Complete Python source code with modular strategies",
+        "Streamlit interactive backtest & analytics dashboard",
+        "Configuration guide for API keys & paper trading mode",
+        "Strategy performance reports (Sharpe ratio, max drawdown, win rate)",
+        "Documentation and deployment instructions on free cloud servers"
+      ],
+      "demoUrl": "https://demo.tradingbot.logicwarriors.dev",
+      "githubPreview": "https://github.com/harmeetdhiman007-gif/Logic-Warriors"
+    },
+    {
+      "id": "lw-proj-006",
+      "title": "Hospital Management & Telemedicine Portal with Real-Time Video Consultations",
+      "category": "Full-Stack Web",
+      "price": 3799,
+      "originalPrice": 7599,
+      "discount": 50,
+      "rating": 4.9,
+      "reviewCount": 63,
+      "badge": "Featured",
+      "isLogicAssured": true,
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&auto=format&fit=crop&q=60",
+      "gallery": [
+        "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&auto=format&fit=crop&q=60",
+        "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&auto=format&fit=crop&q=60"
+      ],
+      "techStack": [
+        "Next.js",
+        "React",
+        "PostgreSQL",
+        "Prisma",
+        "WebRTC",
+        "Tailwind CSS"
+      ],
+      "shortDesc": "Complete hospital system with electronic health records (EHR), doctor appointment scheduling, prescription generation, and WebRTC video calls.",
+      "description": "Comprehensive healthcare platform designed for clinics and hospitals. Supports 4 distinct portals: Super Admin, Doctors, Patients, and Pharmacy. Patients can book slots, pay consultation fees, join WebRTC encrypted video appointments, and download digitized prescriptions in 1 click.",
+      "deliverables": [
+        "Next.js App Router full source code",
+        "Prisma schema & PostgreSQL migration scripts",
+        "WebRTC signaling server configuration",
+        "60+ pages project documentation with DFD & ER diagrams",
+        "PowerPoint viva slides",
+        "Installation support"
+      ],
+      "demoUrl": "https://demo.hospital.logicwarriors.dev",
+      "githubPreview": "https://github.com/harmeetdhiman007-gif/Logic-Warriors"
+    },
+    {
+      "id": "lw-proj-007",
+      "title": "AI Personal Fitness Trainer using Computer Vision Pose Estimation",
+      "category": "AI & Machine Learning",
+      "price": 2899,
+      "originalPrice": 5799,
+      "discount": 50,
+      "rating": 4.7,
+      "reviewCount": 51,
+      "badge": "Popular",
+      "isLogicAssured": true,
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=60",
+      "gallery": [
+        "https://images.unsplash.com/photo-1517838277536-f5f99be501cd?w=800&auto=format&fit=crop&q=60"
+      ],
+      "techStack": [
+        "Python",
+        "MediaPipe",
+        "OpenCV",
+        "NumPy",
+        "Flask",
+        "React"
+      ],
+      "shortDesc": "Real-time webcam workout coach that tracks pushups, squats, and curls, counts reps, checks posture angles, and provides audio feedback.",
+      "description": "An interactive AI fitness application leveraging MediaPipe 33-point skeletal landmark detection. Calculates real-time joint angles (elbow, knee, hip), automatically detects improper form (e.g., sagging back during planks), counts completed repetitions, and speaks audio cues via text-to-speech.",
+      "deliverables": [
+        "Python OpenCV & MediaPipe core workout engine",
+        "Webcam browser interface",
+        "Exercise calibration scripts for custom workouts",
+        "Complete report documentation with trigonometry angle formulas",
+        "Project PPT presentation"
+      ],
+      "demoUrl": "https://demo.fitcoach.logicwarriors.dev",
+      "githubPreview": "https://github.com/harmeetdhiman007-gif/Logic-Warriors"
+    },
+    {
+      "id": "lw-proj-008",
+      "title": "College Examination & Automated Result Processing Management System",
+      "category": "Full-Stack Web",
+      "price": 2499,
+      "originalPrice": 4999,
+      "discount": 50,
+      "rating": 4.8,
+      "reviewCount": 68,
+      "badge": "Student Favorite",
+      "isLogicAssured": true,
+      "inStock": true,
+      "image": "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&auto=format&fit=crop&q=60",
+      "gallery": [
+        "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=800&auto=format&fit=crop&q=60"
+      ],
+      "techStack": [
+        "React",
+        "Node.js",
+        "Express",
+        "MySQL",
+        "PDFKit",
+        "ExcelJS"
+      ],
+      "shortDesc": "University examination portal for hall tickets, attendance, marks entry by faculty, CGPA computation, and bulk PDF marksheet generation.",
+      "description": "A battle-tested academic management system built to streamline semester examinations. Allows professors to upload student marks via Excel spreadsheets, automatically computes SGPA/CGPA with grade point scaling, generates student rank lists, and prints individual official grade sheets with verification QR codes.",
+      "deliverables": [
+        "Clean React frontend & Express API source code",
+        "MySQL relational schema (.sql dump file with sample students)",
+        "Excel bulk upload sample templates",
+        "IEEE standard project synopsis and 55-page final report",
+        "Project defense PPT presentation"
+      ],
+      "demoUrl": "https://demo.examportal.logicwarriors.dev",
+      "githubPreview": "https://github.com/harmeetdhiman007-gif/Logic-Warriors"
+    }
+  ],
+  "sales": [
+    {
+      "id": "sale-688589",
+      "date": "2026-09-19",
+      "customerName": "Karan Johar",
+      "customerPhone": "+91 99999 88888",
+      "projectTitle": "Smart Home IoT Security Hub",
+      "agreedPrice": 3000,
+      "paymentStatus": "Paid"
+    },
+    {
+      "id": "sale-101",
+      "date": "2026-09-15",
+      "customerName": "Aman Sharma",
+      "customerPhone": "+91 98123 45678",
+      "customerEmail": "aman.sharma22@gmail.com",
+      "projectId": "lw-proj-001",
+      "projectTitle": "Full-Stack Multi-Vendor E-Commerce Platform",
+      "agreedPrice": 3500,
+      "paymentStatus": "Paid",
+      "paymentMethod": "UPI / Google Pay",
+      "deliveryStatus": "Delivered",
+      "deliveryMethod": "GitHub Repo Transfer + Google Drive",
+      "notes": "College capstone submission. Guided him with setup on AnyDesk. Everything completed successfully."
+    },
+    {
+      "id": "sale-102",
+      "date": "2026-09-17",
+      "customerName": "Rohan Verma",
+      "customerPhone": "+91 97234 56789",
+      "customerEmail": "rohan.v@outlook.com",
+      "projectId": "lw-proj-002",
+      "projectTitle": "AI Deepfake Detection System with Explainable AI",
+      "agreedPrice": 4500,
+      "paymentStatus": "Paid",
+      "paymentMethod": "PhonePe",
+      "deliveryStatus": "Delivered",
+      "deliveryMethod": "ZIP File + Setup Video Link",
+      "notes": "Wanted Grad-CAM weights explained for thesis. Shared project report and PPT."
+    },
+    {
+      "id": "sale-103",
+      "date": "2026-09-18",
+      "customerName": "Pooja Patel",
+      "customerPhone": "+91 99345 67890",
+      "customerEmail": "pooja.patel@gmail.com",
+      "projectId": "lw-proj-003",
+      "projectTitle": "Cross-Platform Food Delivery Mobile Application",
+      "agreedPrice": 4000,
+      "paymentStatus": "Partial (Advance)",
+      "paymentMethod": "Bank Transfer",
+      "deliveryStatus": "In Progress",
+      "deliveryMethod": "Pending Final APK delivery",
+      "notes": "Paid ₹2000 advance. Customizing restaurant dashboard branding for her client. Remaining ₹2000 upon delivery."
+    }
+  ],
+  "inquiries": [
+    {
+      "id": "inq-201",
+      "date": "2026-09-19",
+      "customerName": "Vikram Singh",
+      "customerPhone": "+91 98450 12345",
+      "customerEmail": "vikram.singh@gmail.com",
+      "projectId": "lw-proj-004",
+      "projectTitle": "Smart Home IoT Security Hub with ESP32",
+      "message": "Hi Harmeet, do you also supply the physical hardware components or just the code? Can you help setup on my breadboard?",
+      "status": "Pending"
+    },
+    {
+      "id": "inq-202",
+      "date": "2026-09-19",
+      "customerName": "Sneha Reddy",
+      "customerPhone": "+91 91234 56789",
+      "customerEmail": "sneha.reddy@yahoo.com",
+      "projectId": "lw-proj-005",
+      "projectTitle": "Automated Algorithmic Crypto & Stock Trading Bot",
+      "message": "Can this bot be connected to Zerodha Kite API for Indian stocks? Let me know the price for Zerodha integration.",
+      "status": "Pending"
+    }
+  ]
+}
