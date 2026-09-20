@@ -9,10 +9,13 @@
     "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
     "build": "vite build",
     "preview": "vite preview",
-    "server": "node server/index.js"
+    "server": "node server/index.js",
+    "db:seed": "node scripts/seed.js"
   },
   "dependencies": {
+    "@neondatabase/serverless": "^1.1.0",
     "cors": "^2.8.5",
+    "dotenv": "^18.0.1",
     "express": "^4.19.2",
     "lucide-react": "^0.395.0",
     "react": "^18.3.1",
