@@ -13,6 +13,8 @@
     "db:seed": "node scripts/seed.js"
   },
   "dependencies": {
+    "@neon/config": "^1.7.2",
+    "@neon/env": "^1.4.3",
     "@neondatabase/serverless": "^1.1.0",
     "cors": "^2.8.5",
     "dotenv": "^18.0.1",
